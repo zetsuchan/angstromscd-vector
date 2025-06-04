@@ -81,6 +81,9 @@ bun run src/index.ts
 
 # Run code quality checks
 bun run lint
+
+# Run sample test script
+bun run tests/sample.ts
 ```
 
 ### Environment Configuration
